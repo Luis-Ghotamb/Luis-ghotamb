@@ -1,4 +1,4 @@
-# Olá, eu sou o Luis, mais conhecido por Ghotamb 🧠🐍
+# Olá, eu sou o Luis, mais conhecido como Ghotamb 🧠🐍
 
 🔭 Atualmente focado em aprender **IA** e **Segurança da Informação**  
 💻 Python é minha principal ferramenta (e meu brinquedo favorito)  
@@ -13,6 +13,15 @@
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git)
 
- 
+---
+
+### 📂 Repositórios em destaque
+- [IA para Humanos](https://github.com/SEU_USUARIO/ia-para-humanos)  
+  IA explicada com códigos, gráficos e linguagem de gente!  
+- [Caixa de Ferramentas Hacker](https://github.com/SEU_USUARIO/hacker-tools)  
+  Scripts de segurança ofensiva e defensiva em Python
+
+---
+
 ### 📫 Me encontre por aí
-- Email: luisotavioinocencio@gmail.com
+- Email: Luisotavioinocencio@gmail.com
