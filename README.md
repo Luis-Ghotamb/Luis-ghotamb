@@ -1,4 +1,4 @@
-# Olá, eu sou o Miau 🧠🐍
+# Olá, eu sou o Luis, mais conhecido por Ghotamb 🧠🐍
 
 🔭 Atualmente focado em aprender **IA** e **Segurança da Informação**  
 💻 Python é minha principal ferramenta (e meu brinquedo favorito)  
